@@ -77,4 +77,4 @@ My interest in the field of technology and the computer world led me to develop 
 </div>
 
 ## Projects
-- Home SOC Lab (Virtual Machine Malware Execution)
+- Home SOC Lab (Virtual Machine Malware Execution) - <div>https://github.com/celik-hayri/Home-SOC-Lab/blob/main/Malware%20Execution%20(Isolated) <div>
