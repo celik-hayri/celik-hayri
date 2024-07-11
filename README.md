@@ -80,4 +80,10 @@ My interest in the field of technology and the computer world led me to develop 
 - Home SOC Lab (Virtual Machine Malware Execution) - <div>https://github.com/celik-hayri/Home-SOC-Lab/blob/main/Malware%20Execution%20(Isolated) <div>
 
 - Honeypot with PenTBox - <div>https://github.com/celik-hayri/Honeypot-PenTBox- <div>
+
+- pfSense-Firewall-Step-By-Step-Installation-Guide - <div>https://github.com/celik-hayri/pfSense-Firewall-Step-By-Step-Installation-Guide <div>
+
+- Active-Directory-Splunk-Server - <div>https://github.com/celik-hayri/Active-Directory-Splunk-Server <div>
+
+
  
