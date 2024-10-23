@@ -31,7 +31,7 @@ My interest in the field of technology and the computer world led me to develop 
 ### Network & System Tools
 <div>
     <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux Logo" />
-    <img src="https://www.wireshark.org/assets/theme-2015/images/wireshark_logo.png"  width="100"/>
+   <img src="path/to/brighter_wireshark_logo.png" alt="Wireshark Logo" width="100"/>
     <img src="https://img.shields.io/badge/NMap-FF7A00?style=for-the-badge&logo=nmap&logoColor=white" alt="NMap Logo" />
     <img src="https://img.shields.io/badge/Oracle_Virtual_Machine-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Virtual Machine Logo" />
 </div>
