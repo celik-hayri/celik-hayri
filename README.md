@@ -3,9 +3,13 @@
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Logo" />
 </a>
 
-I am a cybersecurity analyst with a profound interest in information technology, and a dedication to learning and solvig complex problems.
+Cybersecurity isn’t just a job! it’s a mission. I specialize in threat detection, incident response, and security monitoring, working with industry-leading SIEM, EDR, and SOAR tools to protect organizations from evolving cyber threats. In a fast paced MSSP environment, I investigate 80-100 security alerts daily, ensuring rapid incident resolution and proactive threat mitigation.
 
-My interest in the field of technology and the computer world led me to develop a passion for cybersecurity.I have dedicated myself to learning and mastering various aspects of cybersecurity, from threat analysis to risk management. I am now eager to transition my knowledge and skills into my dream role, where I can contribute to protecting digital environments and solving complex security challenges.
+Currently, I work as a Threat Detection & Response Analyst in an award-winning MSSP known for delivering cutting edge security solutions.
+
+Proud to be part of a top tier security team, I focus on SIEM & EDR investigations, phishing analysis. I have extensive experience analyzing security logs, investigating threats, and enhancing detection capabilities across multiple security platforms.
+
+With a background as an Army Officer, I bring strong leadership, adaptability, and decision making to high pressure security operations. My military discipline and analytical mindset complement my technical expertise, allowing me to effectively handle complex cyber threats.
 
 ## Skills
 
