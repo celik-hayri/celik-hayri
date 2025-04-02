@@ -93,6 +93,7 @@ With a background as an Army Officer, I bring strong leadership, adaptability, a
 <img src="https://img.shields.io/badge/Enterprise%20Defense%20Administrator-0874c7?style=for-the-badge&logo=ine&logoColor=white" alt="Enterprise Defense Administrator / INE Logo" />
 <img src="https://img.shields.io/badge/Fortinet%20FortiGate%207.4%20Operator-0058A6?style=for-the-badge&logo=fortinet&logoColor=white" alt="Fortinet FortiGate 7.4 Operator Logo" />
 <img src="https://img.shields.io/badge/Fortinet%20Certified%20Associate%20Cybersecurity-0058A6?style=for-the-badge&logo=fortinet&logoColor=white" alt="Fortinet Certified Associate Cybersecurity Logo" />
+<img src="https://img.shields.io/badge/Proofpoint%20Certified%20Email%20Authentication%20Specialist-3DDEB7?style=for-the-badge&logo=proofpoint&logoColor=black" alt="Proofpoint Certified Email Authentication Specialist Logo" />
 </div>
 
 ## Projects
