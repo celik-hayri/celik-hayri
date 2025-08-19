@@ -3,13 +3,22 @@
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Logo" />
 </a>
 
-Cybersecurity isn’t just a job! it’s a mission. I specialize in threat detection, incident response, and security monitoring, working with industry-leading SIEM, EDR, and SOAR tools to protect organizations from evolving cyber threats. In a fast paced MSSP environment, I investigate 80-100 security alerts daily, ensuring rapid incident resolution and proactive threat mitigation.
+Experienced Cybersecurity Analyst with a proactive approach to threat detection and security operations. Working in a dynamic MSSP environment, I specialise in identifying and mitigating real world threats with speed and accuracy. My daily work heavily involves investigating alerts ingested from platforms like FortiSIEM, FortiEDR, SentinelOne, Microsoft Sentinel, Microsoft Defender, and Microsoft Graph.
 
-Currently, I work as a Threat Detection & Response Analyst in an award-winning MSSP known for delivering cutting edge security solutions.
+I have a proven track record in incident handling, malware analysis, and continuous security monitoring, investigating an average of 120 security alerts daily. I use frameworks like MITRE ATT&CK and the Cyber Kill Chain for structured analysis, enriching alerts with OSINT and threat intelligence to provide detailed, actionable insights. I'm focused on refining SOC processes and improving detection capabilities to enhance overall response times.
 
-Proud to be part of a top tier security team, I focus on SIEM & EDR investigations, phishing analysis. I have extensive experience analyzing security logs, investigating threats, and enhancing detection capabilities across multiple security platforms.
+Beyond my professional roles, I am passionate about continuous learning and hands-on skill development. My projects include building a home security lab with VirtualBox, deploying a PenTBox honeypot, configuring Active Directory with Splunk logging, and setting up pfSense for firewall management. 
 
-With a background as an Army Officer, I bring strong leadership, adaptability, and decision making to high pressure security operations. My military discipline and analytical mindset complement my technical expertise, allowing me to effectively handle complex cyber threats.
+My Core Skills & Focus Areas:
+* Security Operations: Incident Handling & Escalation, Alert Triage, CyberDefense & Security Ops, SOC Process & Workflow, Detection & Monitoring
+
+* Analysis & Intelligence: Phishing & Malware Analysis, Log Analysis, Cyber Threat Intelligence, OSINT, Vulnerability Management, OWASP Top 10
+
+* Tools & Technologies: FortiSIEM, Microsoft Sentinel, FortiEDR, FortiSOAR, Defender for Endpoint, Splunk, CrowdStrike, SentinelOne, IBM QRadar, Qualys, Mimecast, Wireshark, Ivanti, Jira, Kali Linux, VMware, VirtualBox
+
+* Frameworks & Concepts: MITRE ATT&CK, Cyber Kill Chain, OSI Layer, Endpoint & Network Security, Asset Management, ISO 27001
+
+I am committed to strengthening cybersecurity defences and continuously evolving with the ever changing threat landscape.
 
 ## Skills
 
