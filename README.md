@@ -48,6 +48,8 @@ I am committed to strengthening cybersecurity defences and continuously evolving
     <img src="https://img.shields.io/badge/NMap-FF7A00?style=for-the-badge&logo=nmap&logoColor=white" alt="NMap Logo" />
     <img src="https://img.shields.io/badge/Oracle_Virtual_Machine-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Virtual Machine Logo" />
     <img src="https://img.shields.io/badge/FortiSOAR-F26B00?style=for-the-badge&logo=fortinet&logoColor=white" alt="FortiSOAR Logo" />
+    <img src="https://img.shields.io/badge/Microsoft%20Graph-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Graph Logo" />
+
 
 </div>
 
@@ -56,6 +58,8 @@ I am committed to strengthening cybersecurity defences and continuously evolving
     <img src="https://img.shields.io/badge/CrowdStrike-E62117?style=for-the-badge&logo=crowdstrike&logoColor=white" alt="CrowdStrike Logo" />
     <img src="https://img.shields.io/badge/SentinelOne-6719FF?style=for-the-badge&logo=sentinelone&logoColor=white" alt="SentinelOne Logo" />
     <img src="https://img.shields.io/badge/FortiEDR-0058A6?style=for-the-badge&logo=fortinet&logoColor=white" alt="FortiEDR Logo" />
+    <img src="https://img.shields.io/badge/Microsoft%20Defender%20for%20Endpoint-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Defender for Endpoint Logo" />
+
 
 </div>
 
@@ -64,6 +68,8 @@ I am committed to strengthening cybersecurity defences and continuously evolving
     <img src="https://img.shields.io/badge/IBM_QRadar-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM QRadar Logo" />
     <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk Logo" />
     <img src="https://img.shields.io/badge/FortiSIEM-F26B00?style=for-the-badge&logo=fortinet&logoColor=white" alt="FortiSIEM Logo" />
+    <img src="https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Sentinel Logo" />
+
 
 </div>
 
